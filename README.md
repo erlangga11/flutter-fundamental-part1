@@ -3,6 +3,6 @@
 A new Flutter project.
 
 ## PRAKTIKUM 1
-image.png
+![Buat project baru](./images/01.png)
 
 
